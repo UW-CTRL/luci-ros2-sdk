@@ -25,7 +25,7 @@ This repo supports multiple docker images in order to build and deploy them plea
 
 [Contributing](docs/CONTRIBUTING.md)
 
-[Maintenence](docs/Maintenence.md)
+[Maintenence](docs/Maintenance.md)
 
 
 ## LUCI Core Software and SDK Interdependency chart ##
